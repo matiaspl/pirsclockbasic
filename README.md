@@ -18,6 +18,8 @@ PiRSClock-Basic is currently stable and ready for use.
 It's recommended to use Debian Wheezy or above for this project and a 4GB or more SD Card.
 For reliability I recommend to only use this Pi for the clock.
 
+t
+
 Once you have copied the Debian Wheezy Image to your SD Card and booted your Pi for the first time, a prompt will come up called:
     
     Raspberry Pi Software Configuration Tool (raspi-config)
