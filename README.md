@@ -87,7 +87,7 @@ To quit just hold down keys Q and T at the same time.
 
 ***
 
-This is a modified version of an article at www.raspberrypi-spy.co.uk [here](http://www.raspberrypi-spy.co.uk/2012/06/auto-login-auto-load-lxde/)
+This is a modified version of an article at [http://www.raspberrypi-spy.co.uk/2012/06/auto-login-auto-load-lxde/](http://www.raspberrypi-spy.co.uk/2012/06/auto-login-auto-load-lxde/)
 
 Firstly:
 
