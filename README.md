@@ -71,7 +71,7 @@ And finally we install PiRSClock-Basic:
 
     sudo easy_install PiRSClock-Basic
     
-ant there we have it!
+and there we have it!
 
 ## Running it
 
