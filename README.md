@@ -93,7 +93,7 @@ This is a modified version of an article at [http://www.raspberrypi-spy.co.uk/20
 
 Firstly:
 
-    sudo nano /etc/initab
+    sudo nano /etc/inittab
     
 Scroll down to:
 
